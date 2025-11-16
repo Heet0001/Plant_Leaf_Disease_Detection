@@ -1,1 +1,1 @@
-# Heet0001-Plant_Leaf_Disease_Detection
+Plant_Leaf_Disease_Detection
